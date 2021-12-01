@@ -6,7 +6,7 @@ This project used a provided dataset to predict whether an organization would be
 
 # Results
 ## •	Data Preprocessing<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	The dataset contained an “Is Successful” field that indicated the success of past donations. was used as the target of the processing.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	The dataset contained an “Is Successful” field that indicated the success of past donations. This field was used as the target of the processing.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	The features for the model were determined to be the following columns of data:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT
